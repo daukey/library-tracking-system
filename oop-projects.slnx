@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="library-tracking-system.Entities/library-tracking-system.Entities.csproj" />
+  <Project Path="library-tracking-system/library-tracking-system.csproj" />
+</Solution>
